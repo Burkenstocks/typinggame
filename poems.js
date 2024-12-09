@@ -59,4 +59,4 @@ const poems = [
         author: "Rudyard Kipling",
         text: "If you can keep your head when all about you\nAre losing theirs and blaming it on you;\nIf you can trust yourself when all men doubt you,\nBut make allowance for their doubting too."
     }
-]; 
+];
